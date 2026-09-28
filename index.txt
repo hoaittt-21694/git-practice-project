@@ -1,3 +1,9 @@
 
 Test Case List - LOCAL VERSION
 Test Case List - DEVELOP VERSION
+
+Test Case List
+TC01 - Email: test@example.com
+Phone: 0123456789
+Address: Hanoi, Vietnam
+
